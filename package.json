@@ -1,0 +1,19 @@
+{
+  "name": "cucumber-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cucumber": "^5.1.0"
+  },
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^1.11.8"
+  }
+}
